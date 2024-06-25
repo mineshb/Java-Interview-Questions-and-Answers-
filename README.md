@@ -7,7 +7,3 @@
 + [Java Concurrency Interview Questions](concurrency.md#java-concurrency-interview-questions)
 + [Memory Management in Java Interview Questions](java-memory-managment.md#memory-management-in-java-interview-questions)
 + [Hibernate Interview Questions](hibernate.md#hibernate-interview-questions)
-+ [SQL Interview Questions](sql.md#sql-interview-questions)
-+ [Maven Interview Questions](maven.md#maven-interview-questions)
-+ [Gradle Interview Questions](gradle.md#gradle-interview-questions)
-+ [Git Interview Questions](git.md#git-interview-questions)
